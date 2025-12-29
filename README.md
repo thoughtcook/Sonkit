@@ -5,7 +5,7 @@
 
 ## About Us
 
-**Sonkit Industry Technology Co., Ltd** is a certified high-tech enterprise specializing in the R&D and manufacturing of metal seals. With over a decade of expertise since 2012, we deliver high-performance metal sealing solutions designed to withstand the most demanding conditions — **extreme temperatures, high pressures, intense radiation, corrosive media, and ultra-high vacuum environments**.
+**Sonkit (Shanghai) Industry Technology Co., Ltd.** is a certified high-tech enterprise specializing in the R&D and manufacturing of metal seals. With over a decade of expertise since 2012, we deliver high-performance metal sealing solutions designed to withstand the most demanding conditions — **extreme temperatures, high pressures, intense radiation, corrosive media, and ultra-high vacuum environments**.
 
 Our headquarters and manufacturing facility are located in **Shanghai, China**, serving 2,000+ customers worldwide, including Fortune 500 companies such as **GE, Emerson, and Accellon (Switzerland)**.
 
@@ -83,7 +83,7 @@ Our special processes — including **welding, heat treatment, and non-destructi
 | Advantage | Details |
 |-----------|---------|
 | **Fast Delivery** | Standard products in stock, ready to ship |
-| **Quick Response** | Rapid quotations & technical support |
+| **Quick Response** | Quotations within 24 hours, 24/7 technical support |
 | **Custom Solutions** | Tailored designs for your specific applications |
 | **Craftsman Spirit** | A dedicated team committed to excellence |
 
@@ -105,7 +105,7 @@ Our special processes — including **welding, heat treatment, and non-destructi
 
 | Channel | Link |
 |---------|------|
-| 🌐 **Website** | [www.sonkit.cn/en](http://www.sonkit.cn/en/) |
+| 🌐 **Website** | [www.sonkitsealing.com](https://www.sonkitsealing.com/) |
 | 📺 **YouTube** | [@SonkitIndustry](https://www.youtube.com/channel/UC9_f5zCkC9v4-FpcNWfMNlA) |
 | 🐦 **Twitter** | [@SonkitIndustry](https://twitter.com/SonkitIndustry) |
 | 📘 **Facebook** | [SonkitIndustry](https://www.facebook.com/SonkitIndustry) |
